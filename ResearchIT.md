@@ -2,13 +2,13 @@
 This file contains links to the articles I've authored and co-authored for ResearchIT. I was their Communications and Outreach Intern
 from March 2018 to May 2022 and worked with Amy Neeser as my supervisor.
 
-## Description of my role
+## Description of My Role
 * Created and collaborated on articles that fostered science communication, highlighted human-focused IT activities, and promoted Research IT-sponsored events, like the Women in Data Science (WiDS) Berkeley Conference
 * Devised interview questions based on my research of the article topic, conducted interviews, and wrote and edited articles using the responses
 * Helped create a Twitter presence that showcased and promoted the WiDS conference and panelists with engaging posts and accompanying visuals made on Adobe InDesign
 * Developed a uniform company brand, project proposals, and compelling promotional flyers with Adobe Creative Cloud applications and photography 
 
-**Skills I employed:**
+**Skills Used:**
 
 Communication · Design · Visual Communication · Creative Writing · Keynote · Adobe Photoshop · Adobe InDesign · Teamwork · Diversity & Inclusion
 
