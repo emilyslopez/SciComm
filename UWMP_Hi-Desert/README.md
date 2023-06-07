@@ -2,7 +2,7 @@
 *Group project for UC Berkeley course*
 
 ### In this folder
-1. Hi-Desert Water District promotional video
+1. [Hi-Desert Water District promotional video](https://drive.google.com/file/d/1qKQ2MAuGTp0ABMX376DwJhWwabBOeoEl/view?usp=sharing)
 2. PDF of the video slides
 
 #### My role:
