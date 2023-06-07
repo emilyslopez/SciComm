@@ -3,7 +3,8 @@
 
 ### In this folder
 1. [Hi-Desert Water District promotional video](https://drive.google.com/file/d/1qKQ2MAuGTp0ABMX376DwJhWwabBOeoEl/view?usp=sharing)
-2. PDF of the video slides
+    * If you have issues accessing this link, please email: lopez.emily1222@gmail.com 
+3. PDF of the video slides
 
 #### My role:
 1. Reviewed slides and information
