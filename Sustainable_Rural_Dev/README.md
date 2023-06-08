@@ -2,9 +2,7 @@
 *Assignments for a UC Berkeley course*
 
 ### In this folder:
-* Slides used in a discussion group I led alongside other group members. We discussed the key concepts and
-articles assigned for that week: Rurally Based Social Movements and Peasant Organizations in Latin America
-* A table I co-created for those slides
+* A table I co-created for a group presentation on "Rurally Based Social Movements and Peasant Organizations in Latin America"
 * Brief essays I wrote that gave my perspective on:
   * Sep 18: Climate change will affect agricultural production; the question is, can we design a resilient food production system, and what form would it take?
   * Sep 30: What are the root causes of the global food crisis? How does the crisis manifest in Latin American countries?
