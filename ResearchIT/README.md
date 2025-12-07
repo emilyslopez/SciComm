@@ -1,6 +1,5 @@
 # Articles Written for ResearchIT
-This file contains links to the articles I've authored and co-authored for ResearchIT. I was their Communications and Outreach Intern
-from March 2018 to May 2022 and worked with Amy Neeser as my supervisor.
+This file contains links to the articles I've authored and co-authored and an Outreach Plan I developed for ResearchIT. I was their Communications and Outreach Intern from March 2018 to May 2022 and worked with Amy Neeser as my supervisor.
 
 ## Articles
 
